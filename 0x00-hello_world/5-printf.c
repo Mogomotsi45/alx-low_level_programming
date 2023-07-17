@@ -1,11 +1,9 @@
 #include <stdio.h>
 /**
- * main - A program that shows print using the print function 
- * return: o (correct)
+ * main - A program that priint a line using the printf fuction
  */
-
 int main(void)
 {
-	printf("with a proper grammer but out comes must be art,\n")
-	return (0);
-}	
+printf("with proper grammar, but the outcome is a piece of art,\n")
+return (0);
+}
